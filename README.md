@@ -4,7 +4,7 @@
 
 Код для поиска ортологов можно найти [здесь](https://colab.research.google.com/drive/1MQ1zseDr6YZsuEikEPpU697UnJQ31yay?usp=sharing)
 
-Код для построения heatmap лежит [здесь]()
+Код для построения heatmap лежит [здесь](https://colab.research.google.com/drive/1pacgmTwB52rqED3X8YJYEF-7Tagcfo17?usp=sharing)
 
 Полученные fasta-файлы с последовательностями приложены в папке sequences.
 
